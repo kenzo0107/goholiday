@@ -61,7 +61,7 @@ BusinessDaysAfter is a function that calculates bds business days after given t
 
 ## Contribution
 
-1. Fork ([https://github.com/kenzo0107/goholiday/fork](https://github.com/kenzo0107/goholiday/fork))
+1. Fork ([https://github.com/yut-kt/goholiday/fork](https://github.com/yut-kt/goholiday/fork))
 2. Checkout the latest version of branch
 3. Create a feature branch
 4. Commit your changes
